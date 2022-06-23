@@ -3,8 +3,8 @@ Repositorio para almacenar el Challenge "Career Switch" de Rooftop Academy.
 
 ## Descripción
 Se tienen los siguientes programas:
-    * oscar.js
-    * challenge.js
+* oscar.js
+* challenge.js
 
 **challenge.js** contiene los métodos que permiten conectarse con los endpoint del challenge, cada uno de estos métodos realizan las siguientes funciones:
 
