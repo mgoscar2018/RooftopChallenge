@@ -1,0 +1,30 @@
+{
+  "name": "rooftopchallenge",
+  "version": "1.0.0",
+  "description": "Repositorio para almacenar el Challenge \"Career Switch\" de Rooftop Academy.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./oscar.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgoscar2018/RooftopChallenge.git"
+  },
+  "keywords": [],
+  "author": "Oscar Miranda <mgoscar@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mgoscar2018/RooftopChallenge/issues"
+  },
+  "homepage": "https://github.com/mgoscar2018/RooftopChallenge#readme",
+  "devDependencies": {
+    "@babel/core": "^7.18.5",
+    "@babel/preset-env": "^7.18.2",
+    "babel-jest": "^28.1.1",
+    "jest": "^28.1.1"
+  },
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
