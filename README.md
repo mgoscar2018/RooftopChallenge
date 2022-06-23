@@ -28,7 +28,7 @@ npm start
 En consola, ejecutar:
 ```npm start```
 
-Este correrá el programa oscar.js, el cual obtendrá el token para mí correo "mgoscar@gmail.com", obtendrá y ordenará los bloques y al final comprobará que el orden sea correcto. Todo el proceso paso a paso es mostrado en consola.
+Este correrá el programa **oscar.js**, el cual obtendrá el token para mí correo "mgoscar@gmail.com", obtendrá y ordenará los bloques y al final comprobará que el orden sea correcto. Todo el proceso paso a paso es mostrado en consola.
 
 ### Ejecutar pruebas 
 En consoloa ejecutar:
